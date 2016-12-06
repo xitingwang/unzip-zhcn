@@ -1,0 +1,30 @@
+{
+  "name": "unzip-zhcn",
+  "version": "1.0.1",
+  "description": "解压缩中文文件，解决乱码问题",
+  "main": "unzip-zhcn.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xitingwang/unzip-zhcn.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "iconv-lite": "^0.4.13"
+  },
+  "keywords": [
+    "unzip",
+    "adm-zip",
+    "iconv-lite",
+    "utf-8",
+    "chinese",
+    "cp936"
+  ],
+  "author": "wangchao1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xitingwang/unzip-zhcn/issues"
+  }
+}
